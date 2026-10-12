@@ -2,6 +2,7 @@
 name: Task
 about: A change, feature or chore with a clear outcome
 title: ""
+type: Task
 ---
 
 ## What and why

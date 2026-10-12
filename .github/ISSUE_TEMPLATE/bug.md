@@ -2,6 +2,7 @@
 name: Bug
 about: Something doesn't work as it should
 title: ""
+type: Bug
 ---
 
 ## What happens
