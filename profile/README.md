@@ -54,7 +54,7 @@ The rig and the office open the same well. GeoEngine, the built-in AI assistant,
 
 ## What you can do with GeoMaster
 
-| | |
+| Feature | What it does |
 |---|---|
 | 🎯 **[GeoMatch](https://geomaster.uk/features/geomatch/)** | Correlate the lateral against a type well, segment by segment. Drag an interval and the section, model log and TVT recalculate instantly in your browser. No structural model required. |
 | 📍 **[DrillTracker](https://geomaster.uk/features/drilltracker/)** | Every survey against the well plan: distance to plan, offsets, tool face, build and turn rates. The last survey projected to the bit, across every plan revision. |
@@ -87,6 +87,7 @@ Same tools and the same approvals as in the app. Available on the Basic, Pro and
 ## Plans
 
 **Free**: 1 project of your own, any project shared with you, GeoMatch and 40 GeoEngine queries a month.
+
 **Basic, Pro and Enterprise**: more projects, storage and queries, DrillTracker and the Claude and ChatGPT connector. Project sharing comes with Pro and Enterprise. Each paid plan has a 14-day trial.
 
 [See plans and prices →](https://geomaster.uk/pricing/) <sub>(prices exclude VAT)</sub>
